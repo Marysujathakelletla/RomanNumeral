@@ -1,0 +1,11 @@
+Using System;
+Using System.Text;
+namespace RomanNumerals
+{
+static class Roman
+{
+public static bool TryParse(string text, out int value)
+{
+}
+}
+}
